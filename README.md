@@ -1,7 +1,7 @@
 # AudioCLIP
 ## Extending [CLIP](https://github.com/openai/CLIP) to Image, Text and Audio
 
-![Overview of AudioCLIP](images/AudioCLIP-Structure.png)
+![Overview of AudioCLIP]([images/AudioCLIP-Structure.png](https://github.com/AndreyGuzhov/AudioCLIP/blob/master/images/AudioCLIP-Structure.png))
 
 This repository contains implementation of the models described in the paper [arXiv:2106.13043](https://arxiv.org/abs/2106.13043).
 This work is based on our previous works:
